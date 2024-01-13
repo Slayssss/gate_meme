@@ -5,7 +5,7 @@
 1. Установить Python 3.10.11
 2. Выполнить команду `git clone https://github.com/Slayssss/gate_meme.git`
 3. Изменить файл `config_example.py` на `config.py` и вписать API_KEY и API_SECRET
-4. Файлы настроек находятся в `settings.py`
+4. Файл настроек находится в `settings.py`
 5. Выполнить команду `pip install -r requirements.txt` для установки нужных пакетов
 6. Запустить команду `python main.py`
 
